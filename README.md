@@ -13,3 +13,4 @@
 - bga - fixet - фиксация фоновой img
 - сайт для градиент цветов - https://cssgradient.io/
 - интеллект-карта обучения - https://goo.su/front
+- favicon - сайты в карте-интеллекта
